@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1541949076 source:e:\test4c\bintree.c
+	"bintree.h"
+	"stack.h"
+
+1541948795 e:\test4c\bintree.h
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1542689472 source:e:\test4c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1541948937 e:\test4c\stack.h
+
+1541949180 source:e:\test4c\stack.c
+	"stack.h"
+	"stdlib.h"
+
+1541997979 source:e:\test4c\list.c
+	"list.h"
+	<stdlib.h>
+
+1541997982 e:\test4c\list.h
+
+1542001477 source:e:\test4c\heap.c
+	"heap.h"
+	<stdio.h>
+	<stdlib.h>
+
+1542001469 e:\test4c\heap.h
+
+1542557608 source:e:\test4c\graph.c
+	"graph.h"
+
+1542557664 e:\test4c\graph.h
+	<stdlib.h>
+
